@@ -35,7 +35,9 @@ body {
 .button:hover {
     background: lightgreen;
 }
-
+.usercard {
+    text-align: center;
+}
 /*
 var{--tg-theme-bg-color}
 var(--tg-theme-text-color)
